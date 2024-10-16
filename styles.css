@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(10, 233, 58);
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFtPJrX_hqS4AsYF1SQuHatKwMDgXuAkqDA&s);
+}
+.sneaker-div {
+    background-color: rgb(38, 211, 188);
+    border: 1px solid black;
+    width: 350px;
+    height: 530px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+#image {
+    width: 200px;
+}
+#sneakers-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+} 
