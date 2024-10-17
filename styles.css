@@ -22,7 +22,7 @@ header {
     align-items: center;
     margin: 0 0 50px;
     padding: 10px 0;
-    background-color: hsl(13, 31%, 94%);
+    background-color: hsl(14, 7%, 47%);
     /* box-shadow: 0px -2px 15px #4f4c4d; */
     border-radius: 20px;
     width: 100%;
@@ -130,12 +130,12 @@ ul li a {
 }
 
 .sign-in {
-    background-color: hsl(10, 5%, 75%);
+    background-color: hsl(81, 88%, 49%);
     border-radius: 24px;
 }
 
 .sign-up {
-    background-color: hsl(13, 31%, 94%);
+    background-color: hsl(73, 85%, 45%);
 }
 
 .btn-container button:hover {
@@ -238,6 +238,9 @@ ul li a {
     background-color: #fff;
 }
 
+
+
+
 .btn:hover {
     border: 1.8px solid hsl(14, 86%, 42%);
     background-color: hsl(13, 31%, 94%);
@@ -257,7 +260,7 @@ ul li a {
     color: hsl(14, 86%, 42%);
 }
 
-.food {
+.sneaker {
     color: hsl(12, 20%, 44%);
 }
 
