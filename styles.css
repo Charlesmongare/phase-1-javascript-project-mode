@@ -260,9 +260,6 @@ ul li a {
     color: hsl(14, 86%, 42%);
 }
 
-.food {
-    color: hsl(12, 20%, 44%);
-}
 
 @media (max-width: 1050px) {
     .hideOnMobile {
